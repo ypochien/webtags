@@ -1,1 +1,6 @@
 http://huangz.me/
+
+
+== 關於failover機制 (client**)
+http://redis.io/topics/sentinel-clients 
+http://debugo.com/redis-sentinel/
